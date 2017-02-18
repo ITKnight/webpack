@@ -26,6 +26,6 @@ module.exports = {
     }
   },
 
-  "completeMessage": "To get started:\n\n  {{^inPlace}}cd {{destDirName}}\n  {{/inPlace}}npm install\n  npm run dev\n\nDocumentation can be found at https://github.com/itknight/webpack"
+  "completeMessage": "To get started:\n\n  {{^inPlace}}cd {{destDirName}}\n  {{/inPlace}}npm install\n  gulp build\n\nDocumentation can be found at https://github.com/itknight/webpack"
 
 }
